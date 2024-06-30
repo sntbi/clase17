@@ -1,0 +1,1 @@
+valor1 = int(input(f'ingrese un valor: '))
