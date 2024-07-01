@@ -1,0 +1,6 @@
+
+resultado = ('Funciona')
+
+print(resultado)
+
+
